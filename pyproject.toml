@@ -1,0 +1,9 @@
+[project]
+name = "casinoagent"
+version = "0.1"
+description = "casinoagent agent"
+readme = "README.md"
+dependencies = [
+  "google-adk>=1.8.0",
+]
+
