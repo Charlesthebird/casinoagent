@@ -5,7 +5,6 @@ framework: adk
 modelProvider: gemini
 modelName: gemini-2.0-flash
 description: ""
-telemetryEndpoint: http://6a9302a1ddec.ngrok-free.app/v1/traces
 mcpServers:
     - type: registry
       name: echo-mcp-server
